@@ -1,6 +1,6 @@
 # PolyAnim Lab — Technical Notes
 
-Background on the UIKit animation and rendering techniques used in this project, with pointers to the code that demonstrates each one.
+Background on the UIKit animation and rendering techniques used in this project, with pointers to the code that demonstrates each one. For a screen-by-screen walkthrough of each animation, see [ANIMATIONS.md](ANIMATIONS.md).
 
 **Contents**
 1. The rendering pipeline

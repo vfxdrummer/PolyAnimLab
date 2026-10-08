@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/73c06963-aae7-4125-91f3-a7f99c2c6aaa
 - **Search:** a focus transition, debounced search with a loading state, and staggered result entrance.
 - **Lab (bell menu):** an animation Playground (timing curves, interruptible fling, keyframes, slow-mo), a Perf Lab with an optimized/unoptimized list for Instruments, the v1 demo, and a frame-rate/hitch HUD.
 
-See [TECHNICAL_NOTES.md](TECHNICAL_NOTES.md) for the techniques behind each piece and how to profile them.
+See [ANIMATIONS.md](ANIMATIONS.md) for a step-by-step breakdown of how every animation works, and [TECHNICAL_NOTES.md](TECHNICAL_NOTES.md) for the underlying concepts and how to profile them.
 
 ## Running
 
